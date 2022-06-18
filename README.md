@@ -1,6 +1,11 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ACx5PMnkzebKgvK0cR/giphy.gif" width="100wh"/>
+</div>
 <h1 align="center">Hi 👋, I'm Pranav Patil</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/pranav_6767" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranav_6767" height="30" width="40" /></a>
