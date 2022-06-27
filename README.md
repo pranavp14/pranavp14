@@ -1,11 +1,9 @@
+
+<h1 align="center">Hi 👋, I'm Pranav Patil</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
 </div>
-<h1 align="center">Hi 👋, I'm Pranav Patil</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ACx5PMnkzebKgvK0cR/giphy.gif" width="100wh"/>
-</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranav-patil-450a381a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-patil-450a381a8" height="30" width="40" /></a>
