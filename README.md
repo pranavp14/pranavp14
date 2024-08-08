@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pranav Patil 👨‍💻</h1>
-<h3 align="center">DevOps and Automation Enthusiast | Programmer | WCE'23 </h3>
+<h3 align="center"> Programmer | WCE'23 </h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
 </div>
